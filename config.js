@@ -1,10 +1,10 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Valentine Đầu Tiên",
+    introTitle: 'Lương Giang Ngọc',
+    introDesc: `Hôm nay là ngày mà bọn yêu nhau hay tặng quà nhau
+    Thế nên với tư cách người yêu em
+    Muốn cho em 1 điều đặc biệt mặc dù mình ở xa nhau
+    Đừng chê nha!`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
