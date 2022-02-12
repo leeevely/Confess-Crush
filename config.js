@@ -1,12 +1,9 @@
 const CONFIG = {
     titleWeb: "Valentine Đầu Tiên",
     introTitle: 'Mèo Nhỏ Đáng Yêu❤',
-    introDesc: `Hôm nay là ngày mà bọn yêu nhau hay tặng quà nhau
-    
-    Thế nên với tư cách người yêu em
-    
-    Muốn cho em 1 điều đặc biệt mặc dù mình ở xa nhau
-    
+    introDesc: `Hôm nay là ngày mà bọn yêu nhau hay tặng quà nhau.
+    Thế nên với tư cách người yêu em.
+    Muốn cho em 1 điều đặc biệt mặc dù mình ở xa nhau.
     Đừng chê nha!`,
     btnIntro: '^^HiHi^^',
     title: 'Em có yêu con bé ngồi làm cái trò con bò này cho em khonggg ❤',
