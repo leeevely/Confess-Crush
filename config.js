@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Tui biết mà❤. Tui cũng yêu bạn lắm đóoo 😘😘',
     messDesc: 'Hi vọng Valentine này sẽ là ngày đặc biệt nhất từ trước đến giờ của em. Yêu em ❤',
     btnAccept: 'Đặc biệt chắc rùi <3',
-    messLink: 'https://www.facebook.com/messages/t/100009197149948' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/file/d/14o72h5GI7FY7bWnlmOmhR7DUGaSih-E-/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
